@@ -1,6 +1,6 @@
 @extends('layout.app')
 @section('content')
-    
+    <p>aswawdawd</p>
     <h3 class="text-center">Bu kursdohslarim</h3>
     <br>
     <table class="table table-bordered">
